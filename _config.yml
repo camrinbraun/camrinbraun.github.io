@@ -1,0 +1,41 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true # new for v3
+
+# Setup
+title:            Camrin Braun
+tagline:          'A Jekyll theme'
+description:      'Biological oceanographer. Postdoc at <a href="http://www.apl.washington.edu/" target="_blank">APL-UW</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Camrin Braun'
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/camrinbraun
+plugins:
+  - jekyll-paginate
+  - pygments.rb
+  - jekyll-gist
