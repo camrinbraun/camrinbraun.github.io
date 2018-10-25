@@ -1,21 +1,34 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+#markdown:          redcarpet
+highlighter:      rouge
+#highlighter:       pygments
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true # new for v3
+
 
 # Setup
-title:            Hyde
+title:            Camrin Braun
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Biological oceanographer. Postdoc at <a href="http://www.apl.washington.edu/" target="_blank">APL-UW</a>.'
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Camrin Braun'
+#  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +36,8 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/camrinbraun
+plugins:
+  - jekyll-paginate
+  - pygments.rb
+  - jekyll-gist
