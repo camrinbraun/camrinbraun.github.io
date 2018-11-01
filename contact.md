@@ -2,6 +2,14 @@
 layout: page
 title: Contact
 ---
+<head>
+   <style>
+   figcaption {
+    font-size: smaller;
+    border: none;
+}
+</style>
+</head>
 
 <figure>
 <img src="/assets/img/Tane_Sinclair-Taylor-5224.jpg" alt="Profile" height="400" width="400">

@@ -2,6 +2,14 @@
 layout: page
 title: Research
 ---
+<head>
+   <style>
+   figcaption {
+    font-size: smaller;
+    border: none;
+}
+</style>
+</head>
 
 <figure>
 <img src="/assets/img/Tane Sinclair-Taylor_WHOI3-153.jpg">

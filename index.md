@@ -10,7 +10,7 @@
 <font size="10">About Me</font>
 
 <figure>
-<img src="/assets/img/Tane_Sinclair-Taylor-9600.jpg" alt="Profile" height="400" width="400">
+<img src="/assets/img/Tane_Sinclair-Taylor-9600.jpg">
 <figcaption>
   CAPTION. Photo by <a href="https://tanesinclair-taylor.com/" target="_blank">Tane Sinclair-Taylor</a>.</figcaption>
 </figure>
