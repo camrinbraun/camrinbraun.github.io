@@ -5,7 +5,7 @@ title: Research
 <head>
    <style>
    figcaption {
-    font-size: 1em;
+    font-size: .5em;
     border: none;
 }
 </style>

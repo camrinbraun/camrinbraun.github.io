@@ -1,7 +1,7 @@
 <head>
    <style>
    figcaption {
-    font-size: 4em;
+    font-size: .5em;
     border: none;
 }
 </style>

@@ -24,7 +24,7 @@ Example altmetric badge:
 ## To lookup DOI quickly, use search.crossref.org
 -->
 
-[<a href="https://scholar.google.com/citations?user=wPxIllQAAAAJ&hl=en">Google Scholar Profile</a>]
+[<a href="https://scholar.google.com/citations?user=wPxIllQAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>]
 
 Please <a href="mailto:cbraun@apl.uw.edu?subject=Website Publication Request">contact me</a> if you need copies of a publication.
 
