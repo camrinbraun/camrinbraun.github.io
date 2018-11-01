@@ -5,7 +5,7 @@ title: Contact
 <head>
    <style>
    figcaption {
-    font-size: smaller;
+    font-size: 4;
     border: none;
 }
 </style>
@@ -17,4 +17,4 @@ title: Contact
   Staying organized between dives in the Phoenix Islands Protected Area. Photo by <a href="https://tanesinclair-taylor.com/" target="_blank">Tane Sinclair-Taylor</a>.</figcaption>
 </figure>
 
-Feel free to contact me with questions or comments at cbraun [at] apl dot uw dot edu. I'm also on Twitter at <a href="http://www. twitter.com/braunianmotion/" target="_blank">@braunianmotion</a>.
+Feel free to contact me with questions or comments at cbraun [at] apl dot uw dot edu. I'm also on Twitter at <a href="http://www.twitter.com/braunianmotion/" target="_blank">@braunianmotion</a>.
