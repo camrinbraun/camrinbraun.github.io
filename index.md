@@ -1,13 +1,13 @@
 <head>
    <style>
    figcaption {
-    font-size: 2;
+    font-size: 4em;
     border: none;
 }
 </style>
 </head>
 
-<font size="10">About Me</font>
+<font size="8">About Me</font>
 
 <figure>
 <img src="/assets/img/Tane_Sinclair-Taylor-9600.jpg">

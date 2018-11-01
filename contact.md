@@ -5,7 +5,7 @@ title: Contact
 <head>
    <style>
    figcaption {
-    font-size: 4;
+    font-size: .5em;
     border: none;
 }
 </style>
