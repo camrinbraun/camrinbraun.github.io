@@ -7,7 +7,7 @@
 </style>
 </head>
 
-<font size="3">About Me</font>
+<font size="10">About Me</font>
 
 <figure>
 <img src="/assets/img/Tane_Sinclair-Taylor-5224.jpg" alt="Profile" height="400" width="400">
