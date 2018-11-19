@@ -39,9 +39,9 @@ th, td {
 
 <table style="width:125%" bgcolor="white">
   <tr>
-    <td>Arostegui M. C., <b>C. D. Braun</b>, P. Gaube. in press. Movement patterns and thermal niche of the
-first satellite tagged Mediterranean spearfish (<i>Tetrapturus belone</i>). <i>Fisheries Oceanography</i>.</td>
-    <td>Coming soon</td>
+    <td>Arostegui M. C., <b>C. D. Braun</b>, P. Gaube. 2018. Movement patterns and thermal niche of the
+first satellite tagged Mediterranean spearfish (<i>Tetrapturus belone</i>). <i>Fisheries Oceanography, 1-7.</i>.</td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/fog.12413"></div></td>
   </tr>
 
   <tr>
