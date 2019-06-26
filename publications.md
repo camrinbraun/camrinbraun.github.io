@@ -38,9 +38,20 @@ th, td {
 </style>
 
 <table style="width:125%" bgcolor="white">
+  
   <tr>
-    <td>Arostegui M. C., <b>C. D. Braun</b>, P. Gaube. 2018. Movement patterns and thermal niche of the
-first satellite tagged Mediterranean spearfish (<i>Tetrapturus belone</i>). <i>Fisheries Oceanography, 1-7.</i>.</td>
+    <td><b>Braun, C. D.</b>, P. Gaube, P. Afonso, J. Fontes, G. B. Skomal, S. R. Thorrold. 2019. Assimilating electronic tagging, oceanographic modeling, and fisheries data to estimate movements and connectivity of swordfish in the North Atlantic. <i>ICES Journal of Marine Science</i>, fsz106.</td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/icesjms/fsz106"></div></td>
+  </tr>
+  
+   <tr>
+    <td>Arostegui M. C., P. Gaube, <b>C. D. Braun</b>. 2019. Movement ecology and stenothermy of satellite-tagged shortbill spearfish (<i>Tetrapturus angustirostris</i>). <i>Fisheries Research</i> 215: 21-26.</td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.fishres.2019.03.005"></div></td>
+  </tr>
+	
+  <tr>
+    <td>Arostegui M. C., <b>C. D. Braun</b>, P. Gaube. 2019. Movement patterns and thermal niche of the
+first satellite tagged Mediterranean spearfish (<i>Tetrapturus belone</i>). <i>Fisheries Oceanography</i> 28: 327-333..</td>
     <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/fog.12413"></div></td>
   </tr>
 
