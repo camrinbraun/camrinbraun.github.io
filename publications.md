@@ -40,6 +40,16 @@ th, td {
 <table style="width:125%" bgcolor="white">
   
   <tr>
+    <td><b>Braun, C. D.</b>, P. Gaube, T. H. Sinclair-Taylor, G. B. Skomal, S. R. Thorrold. 2019. Mesoscale eddies act as conduits connecting pelagic predators to mesopelagic ecosystems. <i>Proceedings of the National Academy of Sciences</i> 35.</td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1903067116"></div></td>
+  </tr>
+  
+  <tr>
+    <td>Queiroz, N.,...,<b>Braun, C. D.</b>,...D. W. Sims. 2019. Global spatial risk assessment of sharks under the footprint of fisheries. <i>Nature</i>.</td>
+    <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41586-019-1444-4"></div></td>
+  </tr>
+  
+  <tr>
     <td><b>Braun, C. D.</b>, P. Gaube, P. Afonso, J. Fontes, G. B. Skomal, S. R. Thorrold. 2019. Assimilating electronic tagging, oceanographic modeling, and fisheries data to estimate movements and connectivity of swordfish in the North Atlantic. <i>ICES Journal of Marine Science</i>, fsz106.</td>
     <td><div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/icesjms/fsz106"></div></td>
   </tr>
